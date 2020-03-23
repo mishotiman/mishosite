@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(102, 204, 102); 
+}
+h1 {
+    padding-top: 20px;
+    padding-right: 20px;
+}
+div{
+    align : center;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+th{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    
+}
+.content{
+    background-color: rgb(102, 204, 102);
+    width: 800px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin: auto;
+    /*
+    margin-left: 200px;
+    margin-right: 200px;*/
+}
+
+.head{
+   background-color: rgb(32, 96, 32);
+}
